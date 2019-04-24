@@ -12,10 +12,6 @@ shards:
     github: crystal-lang/crystal-db
     version: 0.5.1
 
-  generate:
-    github: anykeyh/generate.cr
-    commit: 27a59d663ded8ce39a361e3a88b8dd747f59ce42
-
   inflector:
     github: phoffer/inflector.cr
     version: 0.1.8

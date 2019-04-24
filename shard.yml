@@ -13,9 +13,9 @@ dependencies:
   admiral:
     github: jwaldrip/admiral.cr
     branch: master
-  generate:
-    github: anykeyh/generate.cr
-    branch: master
+  # generate:
+  #   github: anykeyh/generate.cr
+  #   branch: master
   pg:
     github: will/crystal-pg
   inflector:
